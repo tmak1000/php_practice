@@ -14,7 +14,7 @@
 <body style="text-align:center">
     <h1>diceroll</h1>
   <p>
-    サイコロの目は「<?php echo $dice1; ?>」「<?php echo $dice2; ?>」でした！。
+    DICEの目は「<?php echo $dice1; ?>」「<?php echo $dice2; ?>」でした！。
     <?php if($zorome) : ?>
     ゾロ目です！
     <?php endif;?>
